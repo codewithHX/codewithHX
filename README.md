@@ -22,6 +22,7 @@
 <h3>my gears</h3>
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Intel_logo_%282006-2020%29.svg" width="30px"></span>&nbsp;
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/windows8/windows8-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://www.nvidia.com/content/dam/en-zz/en-ph/nvidia-gf-certified-three-star-logo-rgb-for-screen.svg" width="30px"></span>&nbsp;
 
 <h3>and I code on</h3>
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-plain.svg" width="30px"></span>&nbsp;
