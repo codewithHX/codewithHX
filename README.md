@@ -1,6 +1,6 @@
 <h3>who am i?</h3>
 
-<img src="https://github.com/hunteeX/hunteeX/blob/main/image%20(1).webp">
+<img src="https://github.com/hunteeX/hunteeX/blob/main/image.webp">
 
 
 - 🔭 I'm currently working on building myself!
