@@ -1,5 +1,4 @@
 <h3>who am i?</h3>
-<hr></hr>
 
 <img src="https://github.com/hunteeX/hunteeX/blob/main/image%20(1).webp">
 
