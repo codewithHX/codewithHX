@@ -8,6 +8,14 @@
  - 💬 Ask me about Art n photography.😉
  - ⚡ Fun fact: I have a Instagarm page filled with my artwork!
 
+
+<h3 id="social">contact me</h3>
+
+<a href="//github.com/hunteeX"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
+<a href="//instagram.com/huntee.x"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
+<a href="mailto:cs.adept@protonmail.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
+
+
 <h3>things i code with 🔗</h3>
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
@@ -23,6 +31,7 @@
 <span><img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" width="30px"></span>&nbsp;
 <span><img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="30px"></span>&nbsp;
 <span><img src="https://seeklogo.com/images/I/intel-new-2020-logo-21ED2748DD-seeklogo.com.png" width="30px"></span>&nbsp;
+
 
 <h3>and I code on </h3>
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-plain.svg" width="30px"></span>&nbsp;
