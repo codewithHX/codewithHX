@@ -20,7 +20,7 @@
 
 
 <h3>my gears</h3>
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/476px-Windows_10_Logo.svg.png" width="30px"></span>&nbsp;
+<span><img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" width="30px"></span>&nbsp;
 <span><img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="30px"></span>&nbsp;
 <span><img src="https://static.wikia.nocookie.net/logopedia/images/c/cc/Intel_Core_i5_Haswell.svg/revision/latest/scale-to-width-down/448?cb=20200824155234" width="30px"></span>&nbsp;
 
