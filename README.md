@@ -20,9 +20,9 @@
 
 
 <h3>my gears</h3>
-<span><img src="https://static.wikia.nocookie.net/logopedia/images/c/cc/Intel_Core_i5_Haswell.svg/revision/latest/scale-to-width-down/448?cb=20200824155234" width="30px"></span>&nbsp;
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/windows8/windows8-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="30px"></span>&nbsp;
+<span><img src="https://static.wikia.nocookie.net/logopedia/images/c/cc/Intel_Core_i5_Haswell.svg/revision/latest/scale-to-width-down/448?cb=20200824155234" width="30px"></span>&nbsp;
 
 <h3>and I code on</h3>
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-plain.svg" width="30px"></span>&nbsp;
