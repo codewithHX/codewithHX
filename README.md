@@ -12,6 +12,7 @@
 <h3 id="social">contact me</h3>
 
 <a href="//github.com/hunteeX"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
+<a href="//instagram.com/huntee.x"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/telegram-black.svg" width="30px" /></a>
 <a href="//instagram.com/huntee.x"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
 <a href="//codepen.io/hunteeX"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/codepen.svg" width="30px" /></a>
 <a href="mailto:cs.adept@protonmail.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
