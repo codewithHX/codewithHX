@@ -29,7 +29,7 @@
 
 
 <h3>my gears ⚙️</h3>
-<span><img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="30px"></span>&nbsp;
 <span><img src="https://seeklogo.com/images/I/intel-new-2020-logo-21ED2748DD-seeklogo.com.png" width="30px"></span>&nbsp;
 <span><img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="30px"></span>&nbsp;
 
