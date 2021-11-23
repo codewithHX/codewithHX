@@ -3,7 +3,7 @@
 <img src="https://github.com/hunteeX/hunteeX/blob/main/image%20(1).webp">
 
 
-- 🔭 I'm currently working !
+- 🔭 I'm currently working on building myself!
  - 🌱 I'm currently learning Web Development, JAVA and Cybersecurity
  - 👯 I'm looking to collaborate on small projects!
  - 🤔 I'm looking for help with JavaScript!
