@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h3>who am i?</h3>
 
 <img src="https://github.com/hunteeX/hunteeX/blob/main/image%20(1).webp">
