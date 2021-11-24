@@ -41,7 +41,7 @@
 
 
 <h3>My Projects 🗂</h3>
-<a href="https://github.com/hunteeX/Whatsapp-Bulk-Message-sender"><img src="https://github.com/hunteeX/hunteeX/blob/main/rep1.webp" width="150px" /></a>
+• <a href="https://github.com/hunteeX/Whatsapp-Bulk-Message-sender"><img src="https://github.com/hunteeX/hunteeX/blob/main/rep1.webp" width="190px" /></a>
 
 
 
