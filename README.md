@@ -42,7 +42,7 @@
 
 <h3>My repositories 🗂</h3>
 <a href="https://github.com/hunteeX/Whatsapp-Bulk-Message-sender"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Octicons-repo.svg" width="50px" /></a>
-
+<strong>Whatsapp Bulk Message Sender</strong>
 
 
 
