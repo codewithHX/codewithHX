@@ -1,4 +1,4 @@
-<img src="https://github.com/hunteeX/hunteeX/blob/main/image.webp">
+<img src="https://raw.githubusercontent.com/hunteeX/hunteeX/main/image.webp">
 
 
 - 🔭 I'm currently working on building myself!
@@ -38,6 +38,10 @@
 <h3>and I code on </h3>
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-plain.svg" width="30px"></span>&nbsp;
+
+
+<h3>My Projects 🗂</h3>
+<a href="//instagram.com/huntee.x"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/telegram-black.svg" width="30px" /></a>
 
 
 
