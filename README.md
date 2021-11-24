@@ -41,7 +41,7 @@
 
 
 <h3>My Projects 🗂</h3>
-<a href="//instagram.com/huntee.x"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/telegram-black.svg" width="30px" /></a>
+<a href="https://github.com/hunteeX/Whatsapp-Bulk-Message-sender"><img src="https://github.com/hunteeX/hunteeX/blob/main/rep1.webp" width="80px" /></a>
 
 
 
