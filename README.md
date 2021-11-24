@@ -41,7 +41,8 @@
 
 
 <h3>My repositories 🗂</h3>
-• [Whatsapp Bulk Message Sender using Python](https://github.com/hunteeX/Whatsapp-Bulk-Message-sender)
+
+>[Whatsapp Bulk Message Sender using Python](https://github.com/hunteeX/Whatsapp-Bulk-Message-sender)
 
 
 
