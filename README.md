@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hunteeX/hunteeX/main/image.webp">
+<img src="https://github.com/hunteeX/hunteeX/blob/main/header.webp">
 
 
 - 🔭 I'm currently working on building myself!
