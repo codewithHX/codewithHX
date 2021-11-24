@@ -40,8 +40,8 @@
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-plain.svg" width="30px"></span>&nbsp;
 
 
-<h3>My Projects 🗂</h3>
-<a href="https://github.com/hunteeX/Whatsapp-Bulk-Message-sender"><img src="https://github.com/hunteeX/hunteeX/blob/main/rep0.jpg" width="100px" /></a>
+<h3>My repositories 🗂</h3>
+<a href="https://github.com/hunteeX/Whatsapp-Bulk-Message-sender"><img src="https://github.com/hunteeX/hunteeX/blob/main/rep0.jpg" width="90px" /></a>
 
 
 
