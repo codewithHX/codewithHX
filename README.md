@@ -2,15 +2,18 @@
 
 >i'm ᕼᑌᑎᒣᒥᕮᕮ ᙭
 
-- 🔭 I'm currently working on building myself!
+<img width="30%" align="right" alt="Github" src="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg" />
+
+ - 🔭 I'm currently working on building myself!
  - 🌱 I'm currently learning Web Development, JAVA and Cybersecurity
  - 👯 I'm looking to collaborate on small projects!
  - 🤔 I'm looking for help with JavaScript!
  - 💬 Ask me about Art n photography.😉
- - ⚡ Fun fact: I have a Instagarm page filled with my artwork!
+ - ⚡ Fun fact: I have a Instagram page filled with my artwork!
 
 
->  Now listening on Spotify 🎧🤘
+
+>  Now listening on Spotify 🎧🤘 
 
 [![Spotify](https://novatorem-peuz581ft-hunteex.vercel.app/api/spotify)](https://open.spotify.com/user/hunteex)
 
