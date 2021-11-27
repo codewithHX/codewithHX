@@ -10,6 +10,10 @@
  - ⚡ Fun fact: I have a Instagarm page filled with my artwork!
 
 
+>  Now listening on Spotify 🎧🤘
+
+[![Spotify](https://novatorem-peuz581ft-hunteex.vercel.app/api/spotify)](https://open.spotify.com/user/hunteex)
+
 <h3 id="social">contact me</h3>
 
 <a href="//github.com/hunteeX"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
