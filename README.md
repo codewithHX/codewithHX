@@ -12,6 +12,7 @@
  - ⚡ Fun fact: I have a Instagram page filled with my artwork!
 
 
+<p>&nbsp;</p>
 
 >  Now listening on Spotify 🎧🤘 
 
