@@ -2,7 +2,6 @@
 
 >i'm ᕼᑌᑎᒣᒥᕮᕮ ᙭
 
-<img width="30%" align="right" alt="Github" src="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg" />
 
  - 🔭 I'm currently working on building myself!
  - 🌱 I'm currently learning Web Development, JAVA and Cybersecurity
@@ -18,13 +17,13 @@
 
 [![Spotify](https://novatorem-peuz581ft-hunteex.vercel.app/api/spotify)](https://open.spotify.com/user/hunteex)
 
-<h3 id="social">contact me</h3>
+<h3 id="social">contact me 🤝</h3>
 
-<a href="//github.com/hunteeX"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
-<a href="//instagram.com/huntee.x"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/telegram-black.svg" width="30px" /></a>
-<a href="//instagram.com/huntee.x"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
-<a href="//codepen.io/hunteeX"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/codepen.svg" width="30px" /></a>
-<a href="mailto:cs.adept@protonmail.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
+<a href="//github.com/hunteeX"><img src="https://www.svgrepo.com/show/217753/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
+<a href="//instagram.com/huntee.x"><img src="https://www.svgrepo.com/show/354443/telegram.svg" width="30px" /></a>
+<a href="//instagram.com/huntee.x"><img src="https://www.svgrepo.com/show/111199/instagram.svg" width="30px" /></a>
+<a href="//codepen.io/hunteeX"><img src="https://www.svgrepo.com/show/353582/codepen-icon.svg" width="30px" /></a>
+<a href="mailto:cs.adept@protonmail.com"><img src="https://www.svgrepo.com/show/95931/mail.svg" width="30px" /></a>
 
 
 <h3>things i code with 🔗</h3>
