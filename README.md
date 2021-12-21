@@ -1,4 +1,4 @@
-<img src="https://github.com/hunteeX/hunteeX/blob/main/header.webp">
+<img src="https://github.com/hunteeX/hunteeX/blob/main/hx.png">
 
 >i'm ᕼᑌᑎᒣᒥᕮᕮ ᙭
 
@@ -31,10 +31,10 @@
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="30px"></span>&nbsp;
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-plain.svg" width="30px"></span>&nbsp;
 
 
