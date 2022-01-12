@@ -19,33 +19,31 @@
 
 <h3 id="social">contact me 🤝</h3>
 
-<a href="//github.com/hunteeX"><img src="https://www.svgrepo.com/show/217753/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
-<a href="//instagram.com/huntee.x"><img src="https://www.svgrepo.com/show/354443/telegram.svg" width="30px" /></a>
-<a href="//instagram.com/huntee.x"><img src="https://www.svgrepo.com/show/111199/instagram.svg" width="30px" /></a>
-<a href="//codepen.io/hunteeX"><img src="https://www.svgrepo.com/show/353582/codepen-icon.svg" width="30px" /></a>
+<a href="//instagram.com/huntee.x"><img src="https://www.svgrepo.com/show/354443/telegram.svg" width="30px" /></a>&nbsp;&nbsp;
+<a href="//instagram.com/huntee.x"><img src="https://www.svgrepo.com/show/111199/instagram.svg" width="30px" /></a>&nbsp;&nbsp;
 <a href="mailto:cs.adept@protonmail.com"><img src="https://www.svgrepo.com/show/95931/mail.svg" width="30px" /></a>
 
 
 <h3>things i code with 🔗</h3>
 
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="30px"></span>&nbsp;
-<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-plain.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-plain.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-plain.svg" width="30px"></span>&nbsp;&nbsp;
 
 
 <h3>my gears ⚙️</h3>
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="30px"></span>&nbsp;
-<span><img src="https://seeklogo.com/images/I/intel-new-2020-logo-21ED2748DD-seeklogo.com.png" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://seeklogo.com/images/I/intel-new-2020-logo-21ED2748DD-seeklogo.com.png" width="30px"></span>&nbsp;&nbsp;
 <span><img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="30px"></span>&nbsp;
 
 
 <h3>and I code on </h3>
-<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-plain.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-plain.svg" width="30px"></span>&nbsp;&nbsp;
 
 
 <h3>My repositories 🗂</h3>
