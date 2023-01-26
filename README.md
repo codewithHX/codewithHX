@@ -13,9 +13,7 @@
 
 <p>&nbsp;</p>
 
->  Now listening on Spotify 🎧🤘 
 
-[![Spotify](https://novatorem-peuz581ft-hunteex.vercel.app/api/spotify)](https://open.spotify.com/user/hunteex)
 
 <h3 id="social">contact me 🤝</h3>
 
@@ -36,13 +34,15 @@
 
 
 <h3>my gears ⚙️</h3>
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="30px"></span>&nbsp;&nbsp;
 <span><img src="https://seeklogo.com/images/I/intel-new-2020-logo-21ED2748DD-seeklogo.com.png" width="30px"></span>&nbsp;&nbsp;
 <span><img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="30px"></span>&nbsp;
 
 
 <h3>and I code on </h3>
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-plain.svg" width="30px"></span>&nbsp;&nbsp;
+<span><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="30px"></span>&nbsp;&nbsp;
 <span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-plain.svg" width="30px"></span>&nbsp;&nbsp;
 
 
